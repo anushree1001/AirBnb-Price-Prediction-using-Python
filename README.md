@@ -15,7 +15,7 @@ Here we try to analyze New York City Airbnb Open dataset and answer Questions as
 
 1. What can we learn about different hosts and areas?
 
-2.What can we learn from predictions? (ex: locations, prices, reviews, etc)
+2. What can we learn from predictions? (ex: locations, prices, reviews, etc)
 
 3. Which hosts are the busiest and why?
 
